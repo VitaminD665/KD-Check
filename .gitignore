@@ -1,0 +1,6 @@
+# Common Files
+.xlsx
+.json
+.csv
+# IDE Specific
+\idea
